@@ -1,2 +1,1 @@
-# toy
-person
+# README
